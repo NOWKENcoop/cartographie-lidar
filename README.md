@@ -104,11 +104,11 @@ La mise à jour de la carte se fait à chaque mesure LiDAR, ce qui permet au rob
 
 > 
     Principe  
-![Capture d'écran de la simulation](https://github.com/NOWKENcoop/boids-simul/blob/master/xptt.png)
+![Capture d'écran de la simulation](https://github.com/NOWKENcoop/cartographie-lidar/blob/master/images.png)
 
 > 
-    outil
-![Capture d'écran de la simulation](https://github.com/NOWKENcoop/boids-simul/blob/master/xptt.png)
+    Outil
+![Capture d'écran de la simulation](https://github.com/NOWKENcoop/cartographie-lidar/blob/master/images.jpeg)
 
 - **Simulation et interface graphique** :
 Le programme est conçu pour s'exécuter dans un environnement de simulation. Une interface graphique est utilisée pour afficher la carte reconstruite et la position du robot. Lorsque l'exploration est terminée, une fenêtre de dialogue apparaît pour informer l'utilisateur et offrir la possibilité de quitter ou de continuer.
